@@ -1,5 +1,5 @@
 {
-    "name": "afiqiqmal/huawei-push",
+    "name": "polinarealt/huawei-push",
     "description": "Simple Huawei Push in PHP",
     "type": "library",
     "require": {
